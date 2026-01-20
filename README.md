@@ -38,8 +38,8 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 dependencies {
-    implementation("com.github.Excelsior-Technologies-Community:Android_ExpandableTextView:1.0.1")
-}
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_ClipboardManager:1.0.0'
+	}
 ```
 
 ---
